@@ -1,0 +1,23 @@
+# Flask Web框架
+Flask==1.1.4
+
+# MySQL数据库连接
+PyMySQL==0.10.1
+
+# 密码哈希处理
+bcrypt==3.1.7
+
+# Werkzeug（Flask依赖，用于WSGI）
+Werkzeug==1.0.1
+
+# Jinja2（Flask模板引擎）
+Jinja2==2.11.3
+
+# MarkupSafe（Jinja2依赖）
+MarkupSafe==2.0.1
+
+# itsdangerous（Flask依赖，用于安全签名）
+itsdangerous==1.1.0
+
+# click（Flask命令行工具）
+click==7.1.2
